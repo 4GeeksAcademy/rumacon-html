@@ -1,0 +1,105 @@
+body{
+    background-color: black;
+    font-family: Roboto;
+.post {
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+
+.image {
+        margin: auto;
+        background-color: white;
+        width: 500px;
+        height: 550px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: stretch;
+}
+.head {
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    height: 550px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+.bottom {
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+.icons {
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+.text01 {
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+.text02 {
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    padding: 10px 0px 10px 0px;
+}
+.logo {
+    height: 50%;
+   width: 10%;
+   font-size:27px;
+   margin: 20px 0px 0px 18px;
+}
+.puntos {
+    position:relative;
+    font-size:30px;
+    margin: 12px 10px 0px 390px;
+}
+.corazon {
+    position:relative;
+    font-size:30px;
+    margin: 0px 0px 0px 5px;
+}
+.comentario {
+    position: fixed;
+    font-size:30px;
+    margin: 0px 0px 0px 45px;
+}
+.avion {
+    position: fixed;
+    font-size:30px;
+    margin: 0px 0px 0px 85px;
+}
+.libro {
+    position: fixed;
+    font-size:30px;
+    margin: 0px 0px 0px 470px;
+}
